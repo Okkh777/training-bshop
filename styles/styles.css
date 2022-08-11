@@ -1,3 +1,18 @@
+:root
+
+.link {
+    text-decoration: none;
+}
+.list {
+    list-style: none;
+}
+img {
+    display: block;
+}
+/* Header */
+
+/* Body */
 body {
     color: red;
 }
+/* Footer */
